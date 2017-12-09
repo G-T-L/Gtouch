@@ -1,9 +1,3 @@
-// Gtouch_Driver.cpp: 定义控制台应用程序的入口点。
-//TODO
-//add try catch while try reading data?
-//add adjust procdure 
-//graph intereface
-//time based action judge
 /*
 期望功能:
 1.左键点击
@@ -12,8 +6,13 @@
 4.双指按住并滑动模拟滚轮进行页面滚动
 5.双指长按双击
 
-
 */
+
+//TODO
+//add try catch while try reading data?
+//add adjust procdure 
+//graph intereface
+//time based action judge
 #include "stdafx.h"
 #include <ctype.h>
 #include <iostream>
